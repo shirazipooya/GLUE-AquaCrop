@@ -1,0 +1,17 @@
+Mashhad Irrigation
+   4.0   : AquaCrop Version (June 2012)
+   2     : Surface irrigation: Basin
+ 100     : Percentage of soil surface wetted by irrigation
+   1     : Irrigation schedule
+
+   Day    Depth (mm)   ECw (dS/m)
+====================================
+     2        40          0.5
+    16        40          0.5
+    31        36          0.5
+    41        52          0.5
+    51        44          0.5
+    61        84          0.5
+    71        62          0.5
+    81       112          0.5
+    91       148          0.5
