@@ -27,37 +27,37 @@
       3         : Default method for the calculation of growing degree days
 -- 1. Climate (CLI) file
    climateData.CLI
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
    1.1 Temperature (Tnx or TMP) file
    temperatureData.TMP
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
    1.2 Reference ET (ETo) file
    etoData.ETo
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
    1.3 Rain (PLU) file
    precipitationData.PLU
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
    1.4 Atmospheric CO2 concentration (CO2) file
    MaunaLoa.CO2
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\SIMUL\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\SIMUL\
 -- 2. Crop (CRO) file
    Wheat.CRO
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
 -- 3. Irrigation management (IRR) file
    irrigationData.IRR
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
 -- 4. Field management (MAN) file
    (None)
    (None)
 -- 5. Soil profile (SOL) file
    soilData.SOL
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
 -- 6. Groundwater table (GWT) file
    (None)
    (None)
 -- 7. Initial conditions (SW0) file
    WetDry.SW0
-   C:\Users\pooya\Documents\Project\Moradi\FAO\AquaCrop\DATA\
+   C:\Users\pooya\Documents\GitHub\GLUE-AquaCrop\FAO\AquaCrop\DATA\
 -- 8. Off-season conditions (OFF) file
    (None)
    (None)

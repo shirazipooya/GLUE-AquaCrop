@@ -43,12 +43,12 @@ Default Wheat, Calendar (Valenzano, 23Nov07)
      1.50      : Soil surface covered by an individual seedling at 90 % emergence (cm2)
      1.50      : Canopy size of individual plant (re-growth) at 1st day (cm2)
   4500000      : Number of plants per hectare
-0.03           : Canopy growth coefficient (CGC): Increase in canopy cover (fraction soil cover per day)
+0.0057         : Canopy growth coefficient (CGC): Increase in canopy cover (fraction soil cover per day)
     -9         : Maximum decrease of Canopy Growth Coefficient in and between seasons - Not Applicable
     -9         : Number of seasons at which maximum decrease of Canopy Growth Coefficient is reached - Not Applicable
     -9.0       : Shape factor for decrease Canopy Growth Coefficient - Not Applicable
-0.9            : Maximum canopy cover (CCx) in fraction soil cover
-0.08           : Canopy decline coefficient (CDC): Decrease in canopy cover (in fraction per day)
+0.9657         : Maximum canopy cover (CCx) in fraction soil cover
+0.0037         : Canopy decline coefficient (CDC): Decrease in canopy cover (in fraction per day)
     13         : Calendar Days: from sowing to emergence
     93         : Calendar Days: from sowing to maximum rooting depth
    158         : Calendar Days: from sowing to start senescence
